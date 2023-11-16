@@ -7,6 +7,8 @@ This the containarized mysql db that is used in the french learning project.
 ### Requirements 
 - Ensure you have docker installed on your local machine.
 
+### Setting Up
+
 1. Clone the project to your local host
 
 2. Create a network to be used across the 3 containers if does not exist already
